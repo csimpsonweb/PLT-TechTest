@@ -14,6 +14,6 @@ TechTest For Interview
 Clone or Download the repo ZIP <br />
 Run the SQL in MAMP <br />
 <br />
-(*not running atm*)
+(*not running atm*)<br />
 Using the command line navigate to the folder root <br />
 run php dbInsert.php <br />

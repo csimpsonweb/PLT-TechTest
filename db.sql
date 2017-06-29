@@ -2,10 +2,10 @@
 CREATE DATABASE PLT;
 
 CREATE TABLE testdata (
-    `Product Code` varchar(255),
-    `Product Name` varchar(255),
-    `Product Description` varchar(255),
-    `Stock` varchar(255),
-    `Cost in GBP` varchar(255),
-    `Discontinued` varchar(255)
+    `Product Code` VARCHAR(10),
+    `Product Name` VARCHAR(50),
+    `Product Description` TEXT,
+    `Stock` INT,
+    `Cost in GBP` DECIMAL(6,4),
+    `Discontinued` VARCHAR(10)
 );
