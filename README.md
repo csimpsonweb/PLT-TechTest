@@ -10,3 +10,10 @@ TechTest For Interview
 6 :Write PHP unit tests (Please mention if you have never written one) <br />
 
 # Code Instructions
+
+Clone or Download the repo ZIP <br />
+Run the SQL in MAMP <br />
+<br />
+(*not running atm*)
+Using the command line navigate to the folder root <br />
+run php dbInsert.php <br />
