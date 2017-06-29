@@ -1,5 +1,5 @@
 
-CREATE DATABASE PLF;
+CREATE DATABASE PLT;
 
 CREATE TABLE testdata (
     `Product Code` varchar(255),
