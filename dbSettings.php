@@ -3,6 +3,6 @@
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$dbname = "PLF";
+$dbname = "PLT";
 
 ?>
